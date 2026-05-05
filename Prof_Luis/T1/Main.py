@@ -1,0 +1,2 @@
+import geracao_tabela_sinoptica
+geracao_tabela_sinoptica.main()

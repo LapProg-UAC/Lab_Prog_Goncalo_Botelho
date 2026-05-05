@@ -1,0 +1,225 @@
+[
+    {
+        "ID": 437,
+        "Name": "Alice Marques",
+        "Prescriptions": [
+            "Sulfonamidas",
+            "Quinidina",
+            "Hidrato de Cloral",
+            "Guanetidina"
+        ],
+        "Interaction Score": 6,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 822,
+        "Name": "Ana Ribeiro",
+        "Prescriptions": [
+            "Simpaticomim\u00e9ticos (A. Indirecta)",
+            "Contraceptivos Orais",
+            "Piridoxina",
+            "Bloqueantes Neuromusculares"
+        ],
+        "Interaction Score": 6,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 931,
+        "Name": "Leonor Gomes",
+        "Prescriptions": [
+            "Contraceptivos Orais",
+            "Haloperidol",
+            "Fenito\u00edna"
+        ],
+        "Interaction Score": 4,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 875,
+        "Name": "Santiago Fernandes",
+        "Prescriptions": [
+            "Indometacina",
+            "Guanetidina",
+            "Cefaloridina (Ceporan)"
+        ],
+        "Interaction Score": 4,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 450,
+        "Name": "Mariana Pinto",
+        "Prescriptions": [
+            "Biguanidas (Fenformina)",
+            "Fenfluramina",
+            "Benzodiazepinas (Diazepam)"
+        ],
+        "Interaction Score": 4,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 161,
+        "Name": "Louren\u00e7o Marques",
+        "Prescriptions": [
+            "Ester\u00f3ides Anab\u00f3licos",
+            "Corticoster\u00f3ides",
+            "Antidepressivos Tric\u00edclicos",
+            "\u00c1cido Acetilsalic\u00edlico",
+            "Bloqueantes Neuromusculares"
+        ],
+        "Interaction Score": 8,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 530,
+        "Name": "Martim Gomes",
+        "Prescriptions": [
+            "Barbit\u00faricos",
+            "Piridoxina",
+            "Bloqueantes Neuromusculares",
+            "\u00c1cido Mefen\u00e2mico"
+        ],
+        "Interaction Score": 6,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 724,
+        "Name": "Francisco Pinto",
+        "Prescriptions": [
+            "Metronidazol",
+            "Simpaticomim\u00e9ticos (A. Indirecta)"
+        ],
+        "Interaction Score": 2,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 710,
+        "Name": "Duarte Martins",
+        "Prescriptions": [
+            "Metildopa",
+            "\u00c1cido Acetilsalic\u00edlico",
+            "Fenotiazinas (Clorpromazina)"
+        ],
+        "Interaction Score": 4,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 853,
+        "Name": "Louren\u00e7o Gomes",
+        "Prescriptions": [
+            "Simpaticomim\u00e9ticos (A. Directa)",
+            "Anticolin\u00e9rgicos",
+            "Anfetaminas",
+            "Metotrexato"
+        ],
+        "Interaction Score": 6,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 538,
+        "Name": "Martim Fernandes",
+        "Prescriptions": [
+            "\u00c1cido Acetilsalic\u00edlico",
+            "Quinidina",
+            "Levodopa",
+            "Meprobamato",
+            "Contraceptivos Orais"
+        ],
+        "Interaction Score": 8,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 821,
+        "Name": "Louren\u00e7o Almeida",
+        "Prescriptions": [
+            "Metotrexato",
+            "Metronidazol",
+            "Carbamazepina",
+            "Sulfonamidas",
+            "\u00c1cido Mefen\u00e2mico"
+        ],
+        "Interaction Score": 8,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 135,
+        "Name": "Matilde Martins",
+        "Prescriptions": [
+            "Simpaticomim\u00e9ticos (A. Directa)",
+            "Anti-histam\u00ednicos",
+            "Naproxeno"
+        ],
+        "Interaction Score": 4,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 206,
+        "Name": "Jo\u00e3o Costa",
+        "Prescriptions": [
+            "Fenfluramina",
+            "Insulinas",
+            "Sulfonamidas",
+            "Metildopa"
+        ],
+        "Interaction Score": 6,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 105,
+        "Name": "Matilde Ribeiro",
+        "Prescriptions": [
+            "Anfetaminas",
+            "Simpaticomim\u00e9ticos (A. Indirecta)"
+        ],
+        "Interaction Score": 2,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 763,
+        "Name": "Leonor Silva",
+        "Prescriptions": [
+            "Haloperidol",
+            "Ester\u00f3ides Anab\u00f3licos",
+            "Clonidina",
+            "Biguanidas (Fenformina)",
+            "Bloqueantes Neuromusculares"
+        ],
+        "Interaction Score": 8,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 938,
+        "Name": "Maria Martins",
+        "Prescriptions": [
+            "Quinidina",
+            "Carbamazepina",
+            "Rifampicina",
+            "Contraceptivos Orais",
+            "iMAOs"
+        ],
+        "Interaction Score": 8,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 903,
+        "Name": "Francisco Lopes",
+        "Prescriptions": [
+            "Sulfimpirazona",
+            "Furosemida",
+            "Rifampicina",
+            "\u00c1cido Mefen\u00e2mico"
+        ],
+        "Interaction Score": 6,
+        "Status": "High Risk"
+    },
+    {
+        "ID": 673,
+        "Name": "Alice Pinto",
+        "Prescriptions": [
+            "Fenfluramina",
+            "Barbit\u00faricos",
+            "Bloqueadores adren\u00e9rgicos beta"
+        ],
+        "Interaction Score": 4,
+        "Status": "High Risk"
+    }
+]
