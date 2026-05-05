@@ -1,0 +1,26 @@
+Digite um número inteiro não negativo: 19
+[0, 1, 1, 4, 7, 19, 40, 97, 217, 508, 1159, 2683, 6160, 14209, 32689, 75316, 173383, 399331, 919480, 2117473]
+
+Executando testes doctest...
+Trying:
+    sequence(0)
+Expecting:
+    [0]
+ok
+Trying:
+    sequence(1)
+Expecting:
+    [0, 1]
+ok
+Trying:
+    sequence(5)
+Expecting:
+    [0, 1, 1, 4, 7, 19]
+ok
+1 item had no tests:
+    __main__
+1 item passed all tests:
+   3 tests in __main__.sequence
+3 tests in 2 items.
+3 passed.
+Test passed.

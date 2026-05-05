@@ -1,0 +1,1209 @@
+[
+    {
+        "id_utente": "9:8;",
+        "nome_utente": "Santiago Silva",
+        "receita": [
+            "Dicloralfenazona",
+            "iMAOs",
+            "Anti-histamínicos",
+            "Analgésicos Narcóticos"
+        ],
+        "balanco_total": 23,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "988:",
+        "nome_utente": "Benedita Alves",
+        "receita": [
+            "Colestiramina",
+            "Rifampicina",
+            "Cloranfenicol"
+        ],
+        "balanco_total": 8,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":79<",
+        "nome_utente": "Ana Santos",
+        "receita": [
+            "Quinidina",
+            "Contraceptivos Orais",
+            "Antibióticos (Largo Espectro)",
+            "Indometacina",
+            "Naproxeno"
+        ],
+        "balanco_total": 36,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ";:9:",
+        "nome_utente": "Alice Silva",
+        "receita": [
+            "Levodopa",
+            "Meprobamato",
+            "Fenitoína",
+            "Tetraciclinas",
+            "Álcool (bebida)"
+        ],
+        "balanco_total": 30,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "776>",
+        "nome_utente": "Carolina Marques",
+        "receita": [
+            "Metotrexato",
+            "Insulinas",
+            "Indometacina",
+            "Antibióticos (Largo Espectro)",
+            "Sulfonilinas (Clorpropamida)"
+        ],
+        "balanco_total": 38,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "753>",
+        "nome_utente": "Afonso Martins",
+        "receita": [
+            "Biguanidas (Fenformina)",
+            "Metronidazol",
+            "Contraceptivos Orais",
+            "Tiroxina",
+            "Clonidina"
+        ],
+        "balanco_total": 22,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<:3?",
+        "nome_utente": "Afonso Costa",
+        "receita": [
+            "Procainamida",
+            "Clofibrato",
+            "Meprobamato",
+            "Anti-histamínicos"
+        ],
+        "balanco_total": 14,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "7=8:",
+        "nome_utente": "Tomás Carvalho",
+        "receita": [
+            "Analgésicos Narcóticos",
+            "Metronidazol",
+            "Griseofulvina",
+            "Cloranfenicol",
+            "Quinidina"
+        ],
+        "balanco_total": 35,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":;9?",
+        "nome_utente": "João Almeida",
+        "receita": [
+            "Bloqueadores adrenérgicos beta",
+            "Tetraciclinas",
+            "Fenotiazinas (Clorpromazina)",
+            "Dicloralfenazona"
+        ],
+        "balanco_total": 13,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "5;2A",
+        "nome_utente": "Maria Lopes",
+        "receita": [
+            "Fenfluramina",
+            "Naproxeno",
+            "Sulfimpirazona"
+        ],
+        "balanco_total": 10,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "5;:?",
+        "nome_utente": "Gabriel Pereira",
+        "receita": [
+            "Insulinas",
+            "Metronidazol",
+            "Furosemida",
+            "Isoniazida",
+            "Ácido Acetilsalicílico"
+        ],
+        "balanco_total": 24,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ";=29",
+        "nome_utente": "Ana Martins",
+        "receita": [
+            "Hidrato de Cloral",
+            "Analgésicos Narcóticos",
+            "Clofibrato",
+            "Griseofulvina"
+        ],
+        "balanco_total": 12,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "6>29",
+        "nome_utente": "Benedita Pinto",
+        "receita": [
+            "Fenfluramina",
+            "Antiácidos",
+            "Ácido Mefenâmico",
+            "Tiazidas"
+        ],
+        "balanco_total": 14,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "6649",
+        "nome_utente": "Matilde Fernandes",
+        "receita": [
+            "Ácido Mefenâmico",
+            "Sulfimpirazona",
+            "Simpaticomiméticos (A. Indirecta)",
+            "Insulinas"
+        ],
+        "balanco_total": 17,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "45;?",
+        "nome_utente": "Tomás Pereira",
+        "receita": [
+            "Tiazidas",
+            "Metildopa",
+            "Simpaticomiméticos (A. Indirecta)",
+            "Ácido Mefenâmico",
+            "Haloperidol"
+        ],
+        "balanco_total": 35,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "8=:;",
+        "nome_utente": "Matilde Jesus",
+        "receita": [
+            "Guanetidina",
+            "Piridoxina",
+            "Metotrexato"
+        ],
+        "balanco_total": 7,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "6<8:",
+        "nome_utente": "Alice Costa",
+        "receita": [
+            "Hidrato de Cloral",
+            "Ácido Mefenâmico",
+            "Simpaticomiméticos (A. Indirecta)",
+            "Corticosteróides"
+        ],
+        "balanco_total": 15,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "969:",
+        "nome_utente": "Francisco Carvalho",
+        "receita": [
+            "Griseofulvina",
+            "Sulfonilinas (Clorpropamida)",
+            "Clofibrato",
+            "Anticolinérgicos",
+            "Antidepressivos Tricíclicos"
+        ],
+        "balanco_total": 33,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "7;2@",
+        "nome_utente": "Carolina Pereira",
+        "receita": [
+            "Digoxina",
+            "Benzodiazepinas (Diazepam)",
+            "Piridoxina",
+            "Fenitoína",
+            "Sulfonamidas"
+        ],
+        "balanco_total": 20,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "99:;",
+        "nome_utente": "Carolina Ribeiro",
+        "receita": [
+            "Tiroxina",
+            "Cefaloridina (Ceporan)",
+            "Colestiramina",
+            "Furosemida"
+        ],
+        "balanco_total": 28,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":>;B",
+        "nome_utente": "Francisco Gomes",
+        "receita": [
+            "Sulfimpirazona",
+            "Simpaticomiméticos (A. Indirecta)",
+            "Piridoxina",
+            "Clofibrato"
+        ],
+        "balanco_total": 9,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "7;4;",
+        "nome_utente": "Duarte Jesus",
+        "receita": [
+            "Hidrato de Cloral",
+            "Sulfonamidas",
+            "Álcool (bebida)"
+        ],
+        "balanco_total": 12,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "469=",
+        "nome_utente": "Alice Sousa",
+        "receita": [
+            "iMAOs",
+            "Insulinas",
+            "Haloperidol",
+            "Metronidazol",
+            "Clonidina"
+        ],
+        "balanco_total": 30,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<64B",
+        "nome_utente": "Matilde Gomes",
+        "receita": [
+            "Carbamazepina",
+            "Anti-histamínicos",
+            "Anticoagulantes Orais"
+        ],
+        "balanco_total": 10,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "856@",
+        "nome_utente": "Tomás Pinto",
+        "receita": [
+            "Glutetimida",
+            "Clofibrato",
+            "Antiácidos"
+        ],
+        "balanco_total": 13,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "4=2@",
+        "nome_utente": "Sofia Pereira",
+        "receita": [
+            "Sulfimpirazona",
+            "Griseofulvina",
+            "Dicloralfenazona",
+            "Simpaticomiméticos (A. Directa)",
+            "Simpaticomiméticos (A. Indirecta)"
+        ],
+        "balanco_total": 35,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "88:=",
+        "nome_utente": "Mariana Santos",
+        "receita": [
+            "Quinidina",
+            "Isoniazida",
+            "Ácido Mefenâmico",
+            "Tiazidas",
+            "Cefaloridina (Ceporan)"
+        ],
+        "balanco_total": 37,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "5;8:",
+        "nome_utente": "Duarte Silva",
+        "receita": [
+            "Esteróides Anabólicos",
+            "Tiramina (Alimentos, Etc.)",
+            "Analgésicos Narcóticos",
+            "Naproxeno",
+            "Bloqueantes Neuromusculares"
+        ],
+        "balanco_total": 31,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ";:9A",
+        "nome_utente": "Duarte Carvalho",
+        "receita": [
+            "Biguanidas (Fenformina)",
+            "Tiramina (Alimentos, Etc.)",
+            "Antibióticos (Largo Espectro)",
+            "Piridoxina"
+        ],
+        "balanco_total": 19,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "692@",
+        "nome_utente": "Alice Silva",
+        "receita": [
+            "Fenitoína",
+            "Simpaticomiméticos (A. Directa)",
+            "Álcool (bebida)",
+            "Sulfonamidas",
+            "Carbamazepina"
+        ],
+        "balanco_total": 27,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "882;",
+        "nome_utente": "Matilde Oliveira",
+        "receita": [
+            "Anfetaminas",
+            "Benzodiazepinas (Diazepam)",
+            "Simpaticomiméticos (A. Indirecta)",
+            "Indometacina"
+        ],
+        "balanco_total": 23,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ";=;<",
+        "nome_utente": "Mariana Rodrigues",
+        "receita": [
+            "Antidepressivos Tricíclicos",
+            "Fenfluramina",
+            "Hidrato de Cloral"
+        ],
+        "balanco_total": 8,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "7=;@",
+        "nome_utente": "Ana Marques",
+        "receita": [
+            "Procainamida",
+            "Carbamazepina",
+            "Tiazidas",
+            "Cloranfenicol",
+            "Anfetaminas"
+        ],
+        "balanco_total": 36,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "598A",
+        "nome_utente": "Ana Fernandes",
+        "receita": [
+            "Hidrato de Cloral",
+            "Sulfonamidas",
+            "Meprobamato"
+        ],
+        "balanco_total": 11,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":;7@",
+        "nome_utente": "Duarte Gonçalves",
+        "receita": [
+            "Fenfluramina",
+            "Piridoxina",
+            "Hidrato de Cloral",
+            "Quinidina"
+        ],
+        "balanco_total": 16,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "5::<",
+        "nome_utente": "Lourenço Silva",
+        "receita": [
+            "Piridoxina",
+            "Guanetidina",
+            "Sulfonamidas",
+            "Corticosteróides"
+        ],
+        "balanco_total": 13,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":74=",
+        "nome_utente": "Beatriz Pinto",
+        "receita": [
+            "Tiroxina",
+            "Fenfluramina",
+            "Clofibrato",
+            "Griseofulvina"
+        ],
+        "balanco_total": 13,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ";82?",
+        "nome_utente": "Ana Jesus",
+        "receita": [
+            "Simpaticomiméticos (A. Directa)",
+            "Metildopa",
+            "Piridoxina",
+            "Biguanidas (Fenformina)",
+            "Bloqueantes Neuromusculares"
+        ],
+        "balanco_total": 27,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "659@",
+        "nome_utente": "Maria Oliveira",
+        "receita": [
+            "Carbamazepina",
+            "Metotrexato",
+            "Bloqueadores adrenérgicos beta",
+            "Tiazidas",
+            "Tetraciclinas"
+        ],
+        "balanco_total": 27,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "563=",
+        "nome_utente": "Alice Marques",
+        "receita": [
+            "Glutetimida",
+            "iMAOs",
+            "Sulfonilinas (Clorpropamida)"
+        ],
+        "balanco_total": 9,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "466=",
+        "nome_utente": "Matilde Rodrigues",
+        "receita": [
+            "Furosemida",
+            "Sulfonamidas",
+            "Fenfluramina",
+            "Clonidina",
+            "Procainamida"
+        ],
+        "balanco_total": 36,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "8;7@",
+        "nome_utente": "Ana Sousa",
+        "receita": [
+            "Corticosteróides",
+            "Quinidina",
+            "Bloqueantes Neuromusculares",
+            "iMAOs"
+        ],
+        "balanco_total": 15,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "497B",
+        "nome_utente": "João Oliveira",
+        "receita": [
+            "Sulfimpirazona",
+            "Rifampicina",
+            "Álcool (bebida)",
+            "Clonidina"
+        ],
+        "balanco_total": 21,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ";<3B",
+        "nome_utente": "Tomás Almeida",
+        "receita": [
+            "Benzodiazepinas (Diazepam)",
+            "Esteróides Anabólicos",
+            "Clonidina"
+        ],
+        "balanco_total": 7,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "9;;?",
+        "nome_utente": "Sofia Sousa",
+        "receita": [
+            "Corticosteróides",
+            "Contraceptivos Orais",
+            "Esteróides Anabólicos",
+            "Ácido Acetilsalicílico"
+        ],
+        "balanco_total": 8,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "655=",
+        "nome_utente": "Beatriz Ribeiro",
+        "receita": [
+            "Fenfluramina",
+            "Digoxina",
+            "Naproxeno",
+            "Clofibrato",
+            "Antidepressivos Tricíclicos"
+        ],
+        "balanco_total": 20,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "8;3B",
+        "nome_utente": "Ana Pereira",
+        "receita": [
+            "Álcool (bebida)",
+            "Piridoxina",
+            "Carbamazepina",
+            "Haloperidol",
+            "Bloqueadores adrenérgicos beta"
+        ],
+        "balanco_total": 25,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "854A",
+        "nome_utente": "Santiago Pinto",
+        "receita": [
+            "Analgésicos Narcóticos",
+            "Indometacina",
+            "Procainamida",
+            "Dicloralfenazona"
+        ],
+        "balanco_total": 21,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "7:4B",
+        "nome_utente": "Mariana Marques",
+        "receita": [
+            "Fenitoína",
+            "Corticosteróides",
+            "Metronidazol"
+        ],
+        "balanco_total": 10,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ";55;",
+        "nome_utente": "Francisco Ribeiro",
+        "receita": [
+            "Indometacina",
+            "Furosemida",
+            "Fenitoína",
+            "Tiroxina",
+            "Sulfonamidas"
+        ],
+        "balanco_total": 32,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "684A",
+        "nome_utente": "Duarte Silva",
+        "receita": [
+            "Anti-histamínicos",
+            "Naproxeno",
+            "Tiramina (Alimentos, Etc.)",
+            "Sulfonamidas",
+            "Antibióticos (Largo Espectro)"
+        ],
+        "balanco_total": 32,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "4;9;",
+        "nome_utente": "Ana Sousa",
+        "receita": [
+            "Procainamida",
+            "Clonidina",
+            "Sulfimpirazona",
+            "Contraceptivos Orais",
+            "Sulfonamidas"
+        ],
+        "balanco_total": 30,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "598@",
+        "nome_utente": "Gabriel Rodrigues",
+        "receita": [
+            "Furosemida",
+            "Fenfluramina",
+            "Digoxina"
+        ],
+        "balanco_total": 4,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "874B",
+        "nome_utente": "Leonor Gonçalves",
+        "receita": [
+            "Sulfonamidas",
+            "Tiroxina",
+            "Carbamazepina",
+            "Insulinas",
+            "Fenfluramina"
+        ],
+        "balanco_total": 30,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "675:",
+        "nome_utente": "Sofia Gomes",
+        "receita": [
+            "Insulinas",
+            "Ácido Acetilsalicílico",
+            "Tiramina (Alimentos, Etc.)",
+            "Rifampicina",
+            "Meprobamato"
+        ],
+        "balanco_total": 36,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "9=79",
+        "nome_utente": "Martim Gonçalves",
+        "receita": [
+            "Cefaloridina (Ceporan)",
+            "Antidepressivos Tricíclicos",
+            "Guanetidina"
+        ],
+        "balanco_total": 11,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "9:;:",
+        "nome_utente": "Afonso Jesus",
+        "receita": [
+            "Meprobamato",
+            "Anticolinérgicos",
+            "Ácido Ectacrínico"
+        ],
+        "balanco_total": 4,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<:6A",
+        "nome_utente": "Tomás Marques",
+        "receita": [
+            "Anfetaminas",
+            "Anti-histamínicos",
+            "iMAOs"
+        ],
+        "balanco_total": 9,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "9=:<",
+        "nome_utente": "Carolina Martins",
+        "receita": [
+            "Simpaticomiméticos (A. Indirecta)",
+            "Colestiramina",
+            "Meprobamato",
+            "Quinidina"
+        ],
+        "balanco_total": 15,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<:;:",
+        "nome_utente": "Benedita Ferreira",
+        "receita": [
+            "Griseofulvina",
+            "Indometacina",
+            "Ácido Ectacrínico"
+        ],
+        "balanco_total": 8,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "885@",
+        "nome_utente": "Tomás Oliveira",
+        "receita": [
+            "Tiazidas",
+            "Anticolinérgicos",
+            "Fenfluramina",
+            "Sulfonilinas (Clorpropamida)"
+        ],
+        "balanco_total": 19,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "7=4A",
+        "nome_utente": "Benedita Rodrigues",
+        "receita": [
+            "Fenfluramina",
+            "Antiácidos",
+            "Cloranfenicol",
+            "Carbamazepina"
+        ],
+        "balanco_total": 26,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<55>",
+        "nome_utente": "Gabriel Sousa",
+        "receita": [
+            "Tiramina (Alimentos, Etc.)",
+            "Metotrexato",
+            "Indometacina",
+            "Naproxeno",
+            "Fenitoína"
+        ],
+        "balanco_total": 34,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":>5;",
+        "nome_utente": "Beatriz Alves",
+        "receita": [
+            "Isoniazida",
+            "Sulfonamidas",
+            "Anticoagulantes Orais",
+            "Indometacina",
+            "Cloranfenicol"
+        ],
+        "balanco_total": 34,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "597=",
+        "nome_utente": "Mariana Ribeiro",
+        "receita": [
+            "Contraceptivos Orais",
+            "iMAOs",
+            "Esteróides Anabólicos",
+            "Anticoagulantes Orais",
+            "Piridoxina"
+        ],
+        "balanco_total": 36,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "673B",
+        "nome_utente": "Alice Ferreira",
+        "receita": [
+            "Meprobamato",
+            "Corticosteróides",
+            "Tetraciclinas"
+        ],
+        "balanco_total": 8,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<72:",
+        "nome_utente": "Leonor Oliveira",
+        "receita": [
+            "Antiácidos",
+            "Levodopa",
+            "Tiazidas",
+            "Quinidina"
+        ],
+        "balanco_total": 21,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "9:8A",
+        "nome_utente": "Leonor Alves",
+        "receita": [
+            "Anfetaminas",
+            "Isoniazida",
+            "Tiazidas",
+            "Ácido Acetilsalicílico"
+        ],
+        "balanco_total": 17,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "9;6A",
+        "nome_utente": "João Gomes",
+        "receita": [
+            "Ácido Mefenâmico",
+            "Hidrato de Cloral",
+            "Sulfimpirazona",
+            "Meprobamato"
+        ],
+        "balanco_total": 18,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "9=2:",
+        "nome_utente": "Mariana Gonçalves",
+        "receita": [
+            "Analgésicos Narcóticos",
+            "Rifampicina",
+            "Tiazidas",
+            "Contraceptivos Orais",
+            "Sulfonamidas"
+        ],
+        "balanco_total": 26,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "6799",
+        "nome_utente": "João Ferreira",
+        "receita": [
+            "Metronidazol",
+            "Anticolinérgicos",
+            "Simpaticomiméticos (A. Indirecta)",
+            "Colestiramina"
+        ],
+        "balanco_total": 16,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":86>",
+        "nome_utente": "Benedita Almeida",
+        "receita": [
+            "Bloqueantes Neuromusculares",
+            "Clofibrato",
+            "Piridoxina",
+            "Cefaloridina (Ceporan)"
+        ],
+        "balanco_total": 21,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "6:99",
+        "nome_utente": "Maria Carvalho",
+        "receita": [
+            "Corticosteróides",
+            "Guanetidina",
+            "Colestiramina",
+            "Contraceptivos Orais"
+        ],
+        "balanco_total": 13,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "6:2<",
+        "nome_utente": "Ana Gomes",
+        "receita": [
+            "Griseofulvina",
+            "Ácido Acetilsalicílico",
+            "Bloqueadores adrenérgicos beta",
+            "Anticoagulantes Orais",
+            "Isoniazida"
+        ],
+        "balanco_total": 37,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "577?",
+        "nome_utente": "Ana Oliveira",
+        "receita": [
+            "Carbamazepina",
+            "Ácido Acetilsalicílico",
+            "Simpaticomiméticos (A. Indirecta)"
+        ],
+        "balanco_total": 5,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":58>",
+        "nome_utente": "Lourenço Carvalho",
+        "receita": [
+            "Cefaloridina (Ceporan)",
+            "Fenitoína",
+            "Contraceptivos Orais"
+        ],
+        "balanco_total": 13,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":58?",
+        "nome_utente": "Ana Lopes",
+        "receita": [
+            "Fenilbutazona",
+            "Álcool (bebida)",
+            "Quinidina"
+        ],
+        "balanco_total": 12,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "89;B",
+        "nome_utente": "Rodrigo Fernandes",
+        "receita": [
+            "Corticosteróides",
+            "Barbitúricos",
+            "Hidrato de Cloral",
+            "Quinidina"
+        ],
+        "balanco_total": 13,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "664:",
+        "nome_utente": "Rodrigo Gomes",
+        "receita": [
+            "Biguanidas (Fenformina)",
+            "Indometacina",
+            "Metildopa",
+            "Ácido Ectacrínico",
+            "Fenotiazinas (Clorpromazina)"
+        ],
+        "balanco_total": 14,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "883:",
+        "nome_utente": "Gabriel Ribeiro",
+        "receita": [
+            "Anfetaminas",
+            "iMAOs",
+            "Guanetidina",
+            "Insulinas"
+        ],
+        "balanco_total": 19,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "7;4>",
+        "nome_utente": "Sofia Almeida",
+        "receita": [
+            "Glutetimida",
+            "Metronidazol",
+            "Anfetaminas",
+            "Carbamazepina"
+        ],
+        "balanco_total": 20,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "553@",
+        "nome_utente": "Leonor Martins",
+        "receita": [
+            "Rifampicina",
+            "Esteróides Anabólicos",
+            "Colestiramina"
+        ],
+        "balanco_total": 8,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "889<",
+        "nome_utente": "Alice Gomes",
+        "receita": [
+            "Bloqueadores adrenérgicos beta",
+            "Clonidina",
+            "Antibióticos (Largo Espectro)",
+            "Ácido Mefenâmico",
+            "Anti-histamínicos"
+        ],
+        "balanco_total": 42,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<57;",
+        "nome_utente": "Duarte Ferreira",
+        "receita": [
+            "Ácido Mefenâmico",
+            "Metronidazol",
+            "Sulfonilinas (Clorpropamida)",
+            "Simpaticomiméticos (A. Directa)"
+        ],
+        "balanco_total": 12,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ";52=",
+        "nome_utente": "Santiago Pinto",
+        "receita": [
+            "Insulinas",
+            "Simpaticomiméticos (A. Directa)",
+            "Isoniazida",
+            "Clonidina",
+            "Metronidazol"
+        ],
+        "balanco_total": 23,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "87:9",
+        "nome_utente": "Mariana Almeida",
+        "receita": [
+            "Griseofulvina",
+            "Anfetaminas",
+            "Rifampicina",
+            "Anticoagulantes Orais"
+        ],
+        "balanco_total": 18,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "586:",
+        "nome_utente": "Tomás Ribeiro",
+        "receita": [
+            "Haloperidol",
+            "Insulinas",
+            "Clofibrato",
+            "Procainamida",
+            "Anticoagulantes Orais"
+        ],
+        "balanco_total": 26,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":57=",
+        "nome_utente": "Santiago Pinto",
+        "receita": [
+            "Haloperidol",
+            "Isoniazida",
+            "Piridoxina"
+        ],
+        "balanco_total": 13,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "759@",
+        "nome_utente": "Rodrigo Pereira",
+        "receita": [
+            "Procainamida",
+            "Insulinas",
+            "Clofibrato",
+            "Bloqueadores adrenérgicos beta"
+        ],
+        "balanco_total": 15,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":=9=",
+        "nome_utente": "Martim Marques",
+        "receita": [
+            "Sulfonilinas (Clorpropamida)",
+            "Guanetidina",
+            "Cefaloridina (Ceporan)",
+            "Indometacina"
+        ],
+        "balanco_total": 15,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "563A",
+        "nome_utente": "Carolina Jesus",
+        "receita": [
+            "Tetraciclinas",
+            "Cloranfenicol",
+            "Rifampicina"
+        ],
+        "balanco_total": 5,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<;7=",
+        "nome_utente": "Carolina Martins",
+        "receita": [
+            "Carbamazepina",
+            "Metildopa",
+            "Analgésicos Narcóticos"
+        ],
+        "balanco_total": 12,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "782=",
+        "nome_utente": "Martim Jesus",
+        "receita": [
+            "Bloqueadores adrenérgicos beta",
+            "Glutetimida",
+            "Isoniazida",
+            "Piridoxina"
+        ],
+        "balanco_total": 21,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "8;:9",
+        "nome_utente": "Ana Oliveira",
+        "receita": [
+            "Insulinas",
+            "Bloqueadores adrenérgicos beta",
+            "Sulfonamidas",
+            "Sulfimpirazona",
+            "Cloranfenicol"
+        ],
+        "balanco_total": 27,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "9;2A",
+        "nome_utente": "Benedita Carvalho",
+        "receita": [
+            "Anticolinérgicos",
+            "Benzodiazepinas (Diazepam)",
+            "Fenotiazinas (Clorpromazina)"
+        ],
+        "balanco_total": 17,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":=;A",
+        "nome_utente": "Beatriz Gomes",
+        "receita": [
+            "Isoniazida",
+            "Sulfonilinas (Clorpropamida)",
+            "Ácido Ectacrínico"
+        ],
+        "balanco_total": 11,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<999",
+        "nome_utente": "Duarte Marques",
+        "receita": [
+            "Fenotiazinas (Clorpromazina)",
+            "Corticosteróides",
+            "Simpaticomiméticos (A. Directa)"
+        ],
+        "balanco_total": 6,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "483=",
+        "nome_utente": "Sofia Jesus",
+        "receita": [
+            "Furosemida",
+            "Simpaticomiméticos (A. Directa)",
+            "Tiroxina",
+            "Meprobamato",
+            "Dicloralfenazona"
+        ],
+        "balanco_total": 29,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": "<<6<",
+        "nome_utente": "João Sousa",
+        "receita": [
+            "Biguanidas (Fenformina)",
+            "Insulinas",
+            "Tiazidas"
+        ],
+        "balanco_total": 11,
+        "resultado": "Com Interações"
+    },
+    {
+        "id_utente": ":5;:",
+        "nome_utente": "Duarte Carvalho",
+        "receita": [
+            "Antiácidos",
+            "Ácido Acetilsalicílico",
+            "Tiramina (Alimentos, Etc.)"
+        ],
+        "balanco_total": 13,
+        "resultado": "Com Interações"
+    }
+]

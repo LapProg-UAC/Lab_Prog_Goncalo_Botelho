@@ -1,0 +1,103 @@
+RELATÓRIO DE HASHING E AUTENTICIDADE
+Configuração: Hash de comprimento 5
+
+TEXTO: João
+BLOCKS: [[74, 111, 227, 111, 53]]
+HASH INTEGRIDADE: ['4A', '6F', 'E3', '6F', '35']
+SIGNATURE (KEYED): ['54', '83', '01', '97', '67']
+
+TEXTO: Maria
+BLOCKS: [[77, 97, 114, 105, 97]]
+HASH INTEGRIDADE: ['4D', '61', '72', '69', '61']
+SIGNATURE (KEYED): ['57', '75', '90', '91', '93']
+
+TEXTO: Francisco
+BLOCKS: [[70, 114, 97, 110, 99], [105, 115, 99, 111, 53]]
+HASH INTEGRIDADE: ['AF', 'E5', 'C4', 'DD', '98']
+SIGNATURE (KEYED): ['B9', 'F9', 'E2', '05', 'CA']
+
+TEXTO: Leonor
+BLOCKS: [[76, 101, 111, 110, 111], [114, 53, 53, 53, 53]]
+HASH INTEGRIDADE: ['BE', '9A', 'A4', 'A3', 'A4']
+SIGNATURE (KEYED): ['C8', 'AE', 'C2', 'CB', 'D6']
+
+TEXTO: Santiago
+BLOCKS: [[83, 97, 110, 116, 105], [97, 103, 111, 53, 53]]
+HASH INTEGRIDADE: ['B4', 'C8', 'DD', 'A9', '9E']
+SIGNATURE (KEYED): ['BE', 'DC', 'FB', 'D1', 'D0']
+
+TEXTO: Matilde
+BLOCKS: [[77, 97, 116, 105, 108], [100, 101, 53, 53, 53]]
+HASH INTEGRIDADE: ['B1', 'C6', 'A9', '9E', 'A1']
+SIGNATURE (KEYED): ['BB', 'DA', 'C7', 'C6', 'D3']
+
+TEXTO: Afonso
+BLOCKS: [[65, 102, 111, 110, 115], [111, 53, 53, 53, 53]]
+HASH INTEGRIDADE: ['B0', '9B', 'A4', 'A3', 'A8']
+SIGNATURE (KEYED): ['BA', 'AF', 'C2', 'CB', 'DA']
+
+TEXTO: Beatriz
+BLOCKS: [[66, 101, 97, 116, 114], [105, 122, 53, 53, 53]]
+HASH INTEGRIDADE: ['AB', 'DF', '96', 'A9', 'A7']
+SIGNATURE (KEYED): ['B5', 'F3', 'B4', 'D1', 'D9']
+
+TEXTO: Duarte
+BLOCKS: [[68, 117, 97, 114, 116], [101, 53, 53, 53, 53]]
+HASH INTEGRIDADE: ['A9', 'AA', '96', 'A7', 'A9']
+SIGNATURE (KEYED): ['B3', 'BE', 'B4', 'CF', 'DB']
+
+TEXTO: Carolina
+BLOCKS: [[67, 97, 114, 111, 108], [105, 110, 97, 53, 53]]
+HASH INTEGRIDADE: ['AC', 'CF', 'D3', 'A4', 'A1']
+SIGNATURE (KEYED): ['B6', 'E3', 'F1', 'CC', 'D3']
+
+TEXTO: Tomás
+BLOCKS: [[84, 111, 109, 225, 115]]
+HASH INTEGRIDADE: ['54', '6F', '6D', 'E1', '73']
+SIGNATURE (KEYED): ['5E', '83', '8B', '09', 'A5']
+
+TEXTO: Sofia
+BLOCKS: [[83, 111, 102, 105, 97]]
+HASH INTEGRIDADE: ['53', '6F', '66', '69', '61']
+SIGNATURE (KEYED): ['5D', '83', '84', '91', '93']
+
+TEXTO: Martim
+BLOCKS: [[77, 97, 114, 116, 105], [109, 53, 53, 53, 53]]
+HASH INTEGRIDADE: ['BA', '96', 'A7', 'A9', '9E']
+SIGNATURE (KEYED): ['C4', 'AA', 'C5', 'D1', 'D0']
+
+TEXTO: Alice
+BLOCKS: [[65, 108, 105, 99, 101]]
+HASH INTEGRIDADE: ['41', '6C', '69', '63', '65']
+SIGNATURE (KEYED): ['4B', '80', '87', '8B', '97']
+
+TEXTO: Rodrigo
+BLOCKS: [[82, 111, 100, 114, 105], [103, 111, 53, 53, 53]]
+HASH INTEGRIDADE: ['B9', 'DE', '99', 'A7', '9E']
+SIGNATURE (KEYED): ['C3', 'F2', 'B7', 'CF', 'D0']
+
+TEXTO: Mariana
+BLOCKS: [[77, 97, 114, 105, 97], [110, 97, 53, 53, 53]]
+HASH INTEGRIDADE: ['BB', 'C2', 'A7', '9E', '96']
+SIGNATURE (KEYED): ['C5', 'D6', 'C5', 'C6', 'C8']
+
+TEXTO: Lourenço
+BLOCKS: [[76, 111, 117, 114, 101], [110, 231, 111, 53, 53]]
+HASH INTEGRIDADE: ['BA', '56', 'E4', 'A7', '9A']
+SIGNATURE (KEYED): ['C4', '6A', '02', 'CF', 'CC']
+
+TEXTO: Ana
+BLOCKS: [[65, 110, 97, 53, 53]]
+HASH INTEGRIDADE: ['41', '6E', '61', '35', '35']
+SIGNATURE (KEYED): ['4B', '82', '7F', '5D', '67']
+
+TEXTO: Gabriel
+BLOCKS: [[71, 97, 98, 114, 105], [101, 108, 53, 53, 53]]
+HASH INTEGRIDADE: ['AC', 'CD', '97', 'A7', '9E']
+SIGNATURE (KEYED): ['B6', 'E1', 'B5', 'CF', 'D0']
+
+TEXTO: Benedita
+BLOCKS: [[66, 101, 110, 101, 100], [105, 116, 97, 53, 53]]
+HASH INTEGRIDADE: ['AB', 'D9', 'CF', '9A', '99']
+SIGNATURE (KEYED): ['B5', 'ED', 'ED', 'C2', 'CB']
+
