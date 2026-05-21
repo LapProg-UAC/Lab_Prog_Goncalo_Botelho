@@ -1,4 +1,3 @@
-# --- Imports ---
 import os
 import json
 import sys
@@ -8,90 +7,87 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(BASE_DIR, "OutputFiles")
 PRESCRIPTIONS_FILE = os.path.join(OUTPUT_DIR, "prescriptions.json")
 
-def obter_utente(utentes: List[Dict[str, Any]], condicao: Callable[[Dict[str, Any]], bool]) -> Dict[str, Any]:
+
+def get_patient(patients: List[Dict[str, Any]], condition: Callable[[Dict[str, Any]], bool]) -> Dict[str, Any]:
     """
-    1. Usa funções de ordem superior (filter) para retornar um utente da lista de utentes.
+    Uses higher-order functions (filter) to return a single patient from the list.
     """
-    resultados = list(filter(condicao, utentes))
-    return resultados[0] if resultados else None
+    results = list(filter(condition, patients))
+    return results[0] if results else None
 
 
-def obter_utentes_por_intervalo_id(utentes: List[Dict[str, Any]], min_id: int, max_id: int) -> List[Dict[str, Any]]:
+def get_patients_by_id_range(patients: List[Dict[str, Any]], min_id: int, max_id: int) -> List[Dict[str, Any]]:
     """
-    2. Usa funções de ordem superior (filter) para retornar uma lista de utentes com o ID entre x e y.
+    Uses higher-order functions (filter) to return a list of patients with an ID between min_id and max_id.
     """
-    condicao = lambda u: min_id <= int(u["Patient_ID"].split("-")[1]) <= max_id
-    return list(filter(condicao, utentes))
+    condition = lambda u: min_id <= int(u["Patient_ID"].split("-")[1]) <= max_id
+    return list(filter(condition, patients))
 
 
-def obter_receitas_por_utente(utentes: List[Dict[str, Any]], condicao: Callable[[Dict[str, Any]], bool]) -> List[List[str]]:
+def get_prescriptions_by_patient(patients: List[Dict[str, Any]], condition: Callable[[Dict[str, Any]], bool]) -> List[List[str]]:
     """
-    3. Usa funções de ordem superior (map e filter) para retornar as receitas associadas a um determinado utente.
+    Uses higher-order functions (map and filter) to return prescriptions associated with a specific patient.
     """
-    return list(filter(None, map(lambda u: u["Prescribed_Medications"] if condicao(u) else None,utentes)))
+    return list(filter(None,map(lambda u: u["Prescribed_Medications"] if condition(u) else None, patients)))
 
 
-def obter_receitas_por_intervalo_id(utentes: List[Dict[str, Any]], min_id: int, max_id: int) -> List[List[str]]:
+def get_prescriptions_by_id_range(patients: List[Dict[str, Any]], min_id: int, max_id: int) -> List[List[str]]:
     """
-    4. Usa funções de ordem superior para retornar as receitas associadas aos utentes com o ID entre x e y.
+    Uses higher-order functions to return prescriptions associated with patients whose IDs are between min_id and max_id.
     """
-    condicao = lambda u: min_id <= int(u["Patient_ID"].split("-")[1]) <= max_id
-    return obter_receitas_por_utente(utentes, condicao)
+    condition = lambda u: min_id <= int(u["Patient_ID"].split("-")[1]) <= max_id
+    return get_prescriptions_by_patient(patients, condition)
 
 
-def Main():
+def main():
     """
-    Função principal que carrega os dados do ecossistema e demonstra
-    o funcionamento prático das 4 funções de ordem superior com outputs claros.
+    Main function that loads data from the ecosystem and demonstrates
+    the practical usage of the 4 higher-order functions with clear outputs.
     """
     try:
         with open(PRESCRIPTIONS_FILE, "r", encoding="utf-8") as f:
-            dados = json.load(f)
-            utentes = dados.get("Prescription", [])
+            data = json.load(f)
+            patients = data.get("Prescription", []) 
     except FileNotFoundError:
-        print(f"[ERRO] O ficheiro '{PRESCRIPTIONS_FILE}' não foi encontrado.")
-        print("Por favor, garante que executas o 'Semana4T2.py' primeiro para gerar os dados.")
+        print(f"[ERROR] The file '{PRESCRIPTIONS_FILE}' was not found.")
+        print("Please make sure to run 'Semana4T2.py' first to generate the data.")
         sys.exit(1)
 
-    if not utentes:
-        print("[AVISO] A lista de utentes está vazia.")
+    if not patients:
+        print("[WARNING] The patient list is empty.")
         return
 
-    print("\n" + "="*60)
-    print("   EXECUÇÃO E OUTPUTS DO MÓDULO: Semana14T3.py")
-    print("="*60)
-
-    # --- Exercício 1 ---
-    print("\n[Exercício 1] À procura do utente com ID especificado ('U-00003'):")
-    utente_alvo = obter_utente(utentes, lambda u: u["Patient_ID"] == "U-00003")
-    if utente_alvo:
-        print(f" -> [Sucesso] Encontrado: {utente_alvo['Patient_ID']} | Nome: {utente_alvo['Patient_Name']}")
+    # --- Exercise 1 ---
+    print("\nLooking for a patient with a specified ID ('U-00003'):")
+    target_patient = get_patient(patients, lambda u: u["Patient_ID"] == "U-00003")
+    if target_patient:
+        print(f" -> [Success] Found: {target_patient['Patient_ID']} | Name: {target_patient['Patient_Name']}")
     else:
-        print(" -> [Aviso] Utente não encontrado.")
+        print(" -> [Warning] Patient not found.")
 
-    # --- Exercício 2 ---
-    print("\n[Exercício 2] Filtrar utentes com ID no intervalo [2, 5]:")
-    utentes_filtrados = obter_utentes_por_intervalo_id(utentes, 2, 5)
-    for u in utentes_filtrados:
+    # --- Exercise 2 ---
+    print("\nFilter patients with IDs in the range [2, 5]:")
+    filtered_patients = get_patients_by_id_range(patients, 2, 5)
+    for u in filtered_patients:
         print(f" -> {u['Patient_ID']} - {u['Patient_Name']}")
 
-    # --- Exercício 3 ---
-    print("\n[Exercício 3] Obter a receita médica do utente 'U-00003':")
-    receita_utente = obter_receitas_por_utente(utentes, lambda u: u["Patient_ID"] == "U-00003")
-    if receita_utente:
-        print(f" -> Medicamentos prescritos: {receita_utente[0]}")
+    # --- Exercise 3 ---
+    print("\nGet the medical prescription for patient 'U-00003':")
+    patient_prescription = get_prescriptions_by_patient(patients, lambda u: u["Patient_ID"] == "U-00003")
+    if patient_prescription:
+        print(f" -> Prescribed medications: {patient_prescription[0]}")
     else:
-        print(" -> Nenhuma receita encontrada para os critérios dados.")
+        print(" -> No prescription found for the given criteria.")
 
-    # --- Exercício 4 ---
-    print("\n[Exercício 4] Obter todas as receitas dos utentes no intervalo [2, 5]:")
-    receitas_intervalo = obter_receitas_por_intervalo_id(utentes, 2, 5)
-    for index, receita in enumerate(receitas_intervalo):
-        id_paciente = utentes_filtrados[index]["Patient_ID"]
-        print(f" -> {id_paciente}: {receita}")
+    # --- Exercise 4 ---
+    print("\nGet all prescriptions for patients in the range [2, 5]:")
+    range_prescriptions = get_prescriptions_by_id_range(patients, 2, 5)
+    for index, prescription in enumerate(range_prescriptions):
+        patient_id = filtered_patients[index]["Patient_ID"]
+        print(f" -> {patient_id}: {prescription}")
 
     print("\n" + "="*60 + "\n")
 
 
 if __name__ == "__main__":
-    Main()
+    main()
