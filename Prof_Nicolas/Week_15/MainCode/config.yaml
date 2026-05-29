@@ -1,0 +1,13 @@
+animation_parameters:
+  fps: 20
+  interval: 50
+  rotation_step: 4
+  face_color: "#FFD700"
+
+emotions_to_generate:
+  - "happy"
+  - "sad"
+  - "surprise"
+  - "neutral"
+  - "disgust"
+  - "fear"
