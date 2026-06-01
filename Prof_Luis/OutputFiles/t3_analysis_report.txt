@@ -1,0 +1,21 @@
+=== HIGHER-ORDER FUNCTIONS ANALYSIS REPORT ===
+
+Looking for patient with ID 'U-00003':
+ -> [Success] Found Name: Laura Monteiro
+
+Filter patients with IDs in the range [2, 5]:
+ -> U-00002 - Mafalda Simões
+ -> U-00003 - Laura Monteiro
+ -> U-00004 - Gonçalo Baptista
+ -> U-00005 - Samuel Pinto
+
+Get the medical prescription for patient 'U-00003':
+ -> Prescribed medications: ['Cefaloridina (Ceporan)', 'Fenilbutazona', 'Indometacina', 'Cloranfenicol', 'Levodopa', 'Insulinas']
+
+Get all prescriptions for patients in the range [2, 5]:
+ -> U-00002: ['Indometacina', 'Anticolinérgicos', 'Griseofulvina', 'Ácido Acetilsalicílico', 'Benzodiazepinas (Diazepam)', 'Digoxina']
+ -> U-00003: ['Cefaloridina (Ceporan)', 'Fenilbutazona', 'Indometacina', 'Cloranfenicol', 'Levodopa', 'Insulinas']
+ -> U-00004: ['Cloranfenicol', 'Fenfluramina', 'Simpaticomiméticos (A. Directa)']
+ -> U-00005: ['Biguanidas (Fenformina)', 'Anticolinérgicos', 'Tetraciclinas', 'Cefaloridina (Ceporan)', 'Dicloralfenazona', 'Naproxeno']
+
+============================================================

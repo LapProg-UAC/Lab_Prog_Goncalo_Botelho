@@ -1,0 +1,16 @@
+input_files:
+  family_data: "data.txt"
+
+output_files:
+  genealogy_report: "genealogy_report.txt"
+
+queries:
+  person_parents: "Joao Silva"
+  ancestor_search_1:
+    person: "Ana Silva"
+    degree: 2
+    side: "maternal"
+  ancestor_search_2:
+    person: "Ana Silva"
+    degree: 3
+    side: "paternal"

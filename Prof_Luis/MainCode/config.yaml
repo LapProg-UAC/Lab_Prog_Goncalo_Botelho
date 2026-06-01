@@ -1,0 +1,24 @@
+files:
+  inputs:
+    medications: "medications.txt"
+    names: "names.txt"
+    surnames: "surnames.txt"
+  outputs:
+    sinoptic_table: "sinoptic_table.xlsx"
+    prescriptions: "prescriptions.json"
+    t3_report: "t3_analysis_report.txt"  # <-- Novo ficheiro de output
+
+t1_parameters:
+  min_interaction_value: 0
+  max_interaction_value: 5
+
+t2_parameters:
+  patients_num: 10
+  min_meds: 2
+  max_meds: 6
+  interaction_limit: 1
+
+t3_parameters:
+  target_patient_id: "U-00003"
+  min_id_range: 2
+  max_id_range: 5

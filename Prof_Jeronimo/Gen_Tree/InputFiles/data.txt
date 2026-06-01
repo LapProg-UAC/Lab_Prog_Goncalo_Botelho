@@ -1,0 +1,11 @@
+Ana Silva, Maria Santos, Joao Silva
+Maria Santos, Rosa Lima, Carlos Santos
+Joao Silva, Filipa Costa, Manuel Silva
+Rosa Lima, Teresa Dias, Antonio Lima
+Carlos Santos, Beatriz Pereira, Luis Santos
+Filipa Costa, Sofia Martins, Rui Costa
+Manuel Silva, Carla Mendes, Paulo Silva
+Teresa Dias, Helena Nogueira, Vasco Dias
+Antonio Lima, Ines Ribeiro, Jorge Lima
+Beatriz Pereira, Rita Carvalho, Nuno Pereira
+Luis Santos, Marta Almeida, Pedro Santos

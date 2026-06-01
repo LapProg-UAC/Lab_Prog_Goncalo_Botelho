@@ -1,0 +1,7 @@
+For Pytest
+
+pytest sequence_pytest.py > ../OutputFiles/pytest.txt
+
+For Unittest
+
+python -m unittest test_sequence_unittest.py > ../OutputFiles/unittest.txt 2>&1

@@ -1,0 +1,7 @@
+files:
+  penguins_input: pinguins_palmer.csv
+  co2_input: co2_maunaloa.csv
+  image_output: painel_pinguins_co2.jpg
+
+graphics:
+  resolution_dpi: 200

@@ -1,0 +1,3 @@
+--- SEQUENCE GENERATOR REPORT ---
+Target number (n): 19
+Generated Sequence: [0, 1, 1, 4, 7, 19, 40, 97, 217, 508, 1159, 2683, 6160, 14209, 32689, 75316, 173383, 399331, 919480, 2117473]

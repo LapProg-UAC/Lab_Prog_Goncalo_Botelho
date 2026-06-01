@@ -1,0 +1,13 @@
+parameters:
+  num_patients: 100
+  default_key: [3, 5, 2, 9]
+
+input_files:
+  medications: "medicamentos.txt"
+  first_names: "nomes.txt"
+  last_names: "sobrenomes.txt"
+
+output_files:
+  synoptic_excel: "synoptic_table.xlsx"
+  synoptic_text: "synoptic_table.txt"
+  final_json: "final_data.json"

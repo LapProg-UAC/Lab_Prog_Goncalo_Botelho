@@ -1,0 +1,5 @@
+sequence_parameters:
+  number_to_generate: 19
+
+output_files:
+  sequence_result: "sequence_output.txt"

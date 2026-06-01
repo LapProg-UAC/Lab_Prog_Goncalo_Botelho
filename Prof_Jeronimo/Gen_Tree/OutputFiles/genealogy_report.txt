@@ -1,0 +1,10 @@
+--- GENEALOGICAL TREE REPORT ---
+
+Person at the root of the tree: Ana Silva
+============================================================
+Parents of Joao Silva: ('Filipa Costa', 'Manuel Silva')
+============================================================
+Maternal Ancestors of Ana Silva (Degree 2): ['Rosa Lima', 'Carlos Santos']
+============================================================
+Paternal Ancestors of Ana Silva (Degree 3): ['Sofia Martins', 'Rui Costa', 'Carla Mendes', 'Paulo Silva']
+============================================================

@@ -1,0 +1,1203 @@
+[
+    {
+        "patient_id": "972>",
+        "patient_name": "Rodrigo Fernandes",
+        "prescription": [
+            "Fenilbutazona",
+            "Bloqueadores adrenérgicos beta",
+            "Álcool (bebida)"
+        ],
+        "total_balance": 10,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "899:",
+        "patient_name": "Santiago Alves",
+        "prescription": [
+            "Rifampicina",
+            "Carbamazepina",
+            "Fenfluramina",
+            "Anticolinérgicos"
+        ],
+        "total_balance": 10,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";58<",
+        "patient_name": "Santiago Ferreira",
+        "prescription": [
+            "Piridoxina",
+            "Dicloralfenazona",
+            "Haloperidol"
+        ],
+        "total_balance": 9,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "776<",
+        "patient_name": "Martim Ribeiro",
+        "prescription": [
+            "Colestiramina",
+            "Dicloralfenazona",
+            "Cefaloridina (Ceporan)",
+            "Bloqueadores adrenérgicos beta"
+        ],
+        "total_balance": 18,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "66::",
+        "patient_name": "Duarte Gonçalves",
+        "prescription": [
+            "Biguanidas (Fenformina)",
+            "Isoniazida",
+            "Simpaticomiméticos (A. Directa)",
+            "Procainamida",
+            "Quinidina"
+        ],
+        "total_balance": 35,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "6;8<",
+        "patient_name": "Ana Almeida",
+        "prescription": [
+            "Antibióticos (Largo Espectro)",
+            "Metildopa",
+            "Insulinas"
+        ],
+        "total_balance": 3,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "5>;=",
+        "patient_name": "Lourenço Jesus",
+        "prescription": [
+            "Anti-histamínicos",
+            "Ácido Mefenâmico",
+            "Carbamazepina",
+            "Corticosteróides"
+        ],
+        "total_balance": 12,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "4>2@",
+        "patient_name": "Francisco Oliveira",
+        "prescription": [
+            "Cloranfenicol",
+            "Hidrato de Cloral",
+            "Anticoagulantes Orais",
+            "Colestiramina"
+        ],
+        "total_balance": 19,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "883;",
+        "patient_name": "Duarte Almeida",
+        "prescription": [
+            "Simpaticomiméticos (A. Directa)",
+            "Bloqueantes Neuromusculares",
+            "Metildopa",
+            "Ácido Mefenâmico",
+            "Analgésicos Narcóticos"
+        ],
+        "total_balance": 33,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "8:2:",
+        "patient_name": "Ana Gomes",
+        "prescription": [
+            "Fenotiazinas (Clorpromazina)",
+            "Anti-histamínicos",
+            "Levodopa",
+            "Meprobamato",
+            "Metotrexato"
+        ],
+        "total_balance": 32,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "669?",
+        "patient_name": "Gabriel Rodrigues",
+        "prescription": [
+            "Procainamida",
+            "Cefaloridina (Ceporan)",
+            "Haloperidol",
+            "Contraceptivos Orais"
+        ],
+        "total_balance": 25,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";<69",
+        "patient_name": "Rodrigo Silva",
+        "prescription": [
+            "Álcool (bebida)",
+            "Griseofulvina",
+            "Haloperidol",
+            "Simpaticomiméticos (A. Directa)",
+            "Ácido Acetilsalicílico"
+        ],
+        "total_balance": 23,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "483@",
+        "patient_name": "Maria Silva",
+        "prescription": [
+            "Esteróides Anabólicos",
+            "Tiramina (Alimentos, Etc.)",
+            "Meprobamato",
+            "Cloranfenicol",
+            "Biguanidas (Fenformina)"
+        ],
+        "total_balance": 30,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "::3>",
+        "patient_name": "Matilde Sousa",
+        "prescription": [
+            "Quinidina",
+            "Levodopa",
+            "Anti-histamínicos"
+        ],
+        "total_balance": 8,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "4:4A",
+        "patient_name": "Sofia Pereira",
+        "prescription": [
+            "Clonidina",
+            "Glutetimida",
+            "Levodopa",
+            "Sulfonamidas"
+        ],
+        "total_balance": 30,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "793?",
+        "patient_name": "Tomás Gonçalves",
+        "prescription": [
+            "Meprobamato",
+            "Contraceptivos Orais",
+            "Sulfonamidas"
+        ],
+        "total_balance": 8,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "9;;?",
+        "patient_name": "Maria Alves",
+        "prescription": [
+            "Simpaticomiméticos (A. Directa)",
+            "Meprobamato",
+            "Bloqueadores adrenérgicos beta"
+        ],
+        "total_balance": 3,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "9<;B",
+        "patient_name": "Santiago Santos",
+        "prescription": [
+            "Insulinas",
+            "Anticolinérgicos",
+            "Biguanidas (Fenformina)",
+            "Furosemida",
+            "Levodopa"
+        ],
+        "total_balance": 26,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "482A",
+        "patient_name": "Beatriz Jesus",
+        "prescription": [
+            "Isoniazida",
+            "Tiazidas",
+            "Ácido Acetilsalicílico",
+            "Fenfluramina"
+        ],
+        "total_balance": 18,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "8>49",
+        "patient_name": "Gabriel Alves",
+        "prescription": [
+            "Simpaticomiméticos (A. Directa)",
+            "iMAOs",
+            "Quinidina",
+            "Antiácidos"
+        ],
+        "total_balance": 18,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "8=3;",
+        "patient_name": "Santiago Jesus",
+        "prescription": [
+            "Procainamida",
+            "Insulinas",
+            "Anti-histamínicos"
+        ],
+        "total_balance": 10,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "<54A",
+        "patient_name": "Mariana Lopes",
+        "prescription": [
+            "Guanetidina",
+            "Tetraciclinas",
+            "Griseofulvina"
+        ],
+        "total_balance": 6,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":59<",
+        "patient_name": "Martim Jesus",
+        "prescription": [
+            "Antidepressivos Tricíclicos",
+            "Simpaticomiméticos (A. Directa)",
+            "Analgésicos Narcóticos",
+            "Metotrexato"
+        ],
+        "total_balance": 9,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";67B",
+        "patient_name": "Francisco Fernandes",
+        "prescription": [
+            "Anfetaminas",
+            "Colestiramina",
+            "Fenotiazinas (Clorpromazina)",
+            "Clonidina"
+        ],
+        "total_balance": 23,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "6=8>",
+        "patient_name": "Leonor Ribeiro",
+        "prescription": [
+            "Clonidina",
+            "Carbamazepina",
+            "Indometacina",
+            "Biguanidas (Fenformina)"
+        ],
+        "total_balance": 21,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":=8<",
+        "patient_name": "Leonor Gomes",
+        "prescription": [
+            "Barbitúricos",
+            "Griseofulvina",
+            "Fenotiazinas (Clorpromazina)"
+        ],
+        "total_balance": 11,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "885@",
+        "patient_name": "Lourenço Lopes",
+        "prescription": [
+            "Isoniazida",
+            "Rifampicina",
+            "Colestiramina",
+            "Tetraciclinas"
+        ],
+        "total_balance": 19,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "8::?",
+        "patient_name": "Alice Sousa",
+        "prescription": [
+            "Rifampicina",
+            "Meprobamato",
+            "Carbamazepina",
+            "Piridoxina",
+            "Furosemida"
+        ],
+        "total_balance": 31,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "6<3;",
+        "patient_name": "Benedita Gomes",
+        "prescription": [
+            "Piridoxina",
+            "Contraceptivos Orais",
+            "Tiazidas",
+            "Biguanidas (Fenformina)",
+            "Antibióticos (Largo Espectro)"
+        ],
+        "total_balance": 28,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":63;",
+        "patient_name": "Mariana Alves",
+        "prescription": [
+            "Indometacina",
+            "Analgésicos Narcóticos",
+            "Tiazidas",
+            "Biguanidas (Fenformina)"
+        ],
+        "total_balance": 22,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "95:9",
+        "patient_name": "Santiago Almeida",
+        "prescription": [
+            "Anfetaminas",
+            "Antiácidos",
+            "Metildopa",
+            "Fenfluramina"
+        ],
+        "total_balance": 21,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "977:",
+        "patient_name": "Santiago Sousa",
+        "prescription": [
+            "Simpaticomiméticos (A. Directa)",
+            "Naproxeno",
+            "Anti-histamínicos",
+            "Indometacina",
+            "Fenilbutazona"
+        ],
+        "total_balance": 29,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":75;",
+        "patient_name": "Rodrigo Santos",
+        "prescription": [
+            "Meprobamato",
+            "Procainamida",
+            "Digoxina",
+            "Álcool (bebida)"
+        ],
+        "total_balance": 10,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "9:9:",
+        "patient_name": "Benedita Alves",
+        "prescription": [
+            "Antiácidos",
+            "Isoniazida",
+            "Tiroxina",
+            "Analgésicos Narcóticos"
+        ],
+        "total_balance": 7,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "782@",
+        "patient_name": "Afonso Fernandes",
+        "prescription": [
+            "Cloranfenicol",
+            "Tetraciclinas",
+            "Indometacina"
+        ],
+        "total_balance": 5,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";<6?",
+        "patient_name": "Sofia Martins",
+        "prescription": [
+            "Metronidazol",
+            "Anticoagulantes Orais",
+            "Glutetimida"
+        ],
+        "total_balance": 10,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "895@",
+        "patient_name": "Sofia Oliveira",
+        "prescription": [
+            "Naproxeno",
+            "Metildopa",
+            "Quinidina",
+            "Fenotiazinas (Clorpromazina)"
+        ],
+        "total_balance": 22,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "56;@",
+        "patient_name": "Carolina Gomes",
+        "prescription": [
+            "Haloperidol",
+            "Naproxeno",
+            "Ácido Mefenâmico",
+            "Anfetaminas"
+        ],
+        "total_balance": 25,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "658?",
+        "patient_name": "João Silva",
+        "prescription": [
+            "Rifampicina",
+            "Levodopa",
+            "Haloperidol",
+            "Clonidina",
+            "Metotrexato"
+        ],
+        "total_balance": 31,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "5:9<",
+        "patient_name": "Martim Pereira",
+        "prescription": [
+            "Anfetaminas",
+            "Naproxeno",
+            "Metotrexato"
+        ],
+        "total_balance": 6,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":;69",
+        "patient_name": "Matilde Costa",
+        "prescription": [
+            "Clofibrato",
+            "Griseofulvina",
+            "Analgésicos Narcóticos",
+            "Digoxina"
+        ],
+        "total_balance": 27,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "69;:",
+        "patient_name": "Tomás Fernandes",
+        "prescription": [
+            "Corticosteróides",
+            "Procainamida",
+            "Benzodiazepinas (Diazepam)",
+            "Anfetaminas"
+        ],
+        "total_balance": 22,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "454:",
+        "patient_name": "Ana Ferreira",
+        "prescription": [
+            "Haloperidol",
+            "Digoxina",
+            "Fenotiazinas (Clorpromazina)"
+        ],
+        "total_balance": 8,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "866<",
+        "patient_name": "Matilde Pinto",
+        "prescription": [
+            "Furosemida",
+            "Cefaloridina (Ceporan)",
+            "Fenitoína",
+            "Carbamazepina"
+        ],
+        "total_balance": 29,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "6=29",
+        "patient_name": "Francisco Lopes",
+        "prescription": [
+            "Sulfimpirazona",
+            "Levodopa",
+            "Naproxeno",
+            "Ácido Ectacrínico"
+        ],
+        "total_balance": 15,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "<;9<",
+        "patient_name": "Leonor Gomes",
+        "prescription": [
+            "Anticoagulantes Orais",
+            "Corticosteróides",
+            "Anfetaminas",
+            "Metildopa",
+            "Colestiramina"
+        ],
+        "total_balance": 24,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";84;",
+        "patient_name": "Francisco Costa",
+        "prescription": [
+            "Antibióticos (Largo Espectro)",
+            "Haloperidol",
+            "Dicloralfenazona",
+            "Antiácidos"
+        ],
+        "total_balance": 10,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "979B",
+        "patient_name": "Martim Alves",
+        "prescription": [
+            "Metildopa",
+            "Dicloralfenazona",
+            "Sulfonilinas (Clorpropamida)",
+            "Procainamida"
+        ],
+        "total_balance": 19,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "4>3B",
+        "patient_name": "Lourenço Martins",
+        "prescription": [
+            "Ácido Ectacrínico",
+            "Ácido Mefenâmico",
+            "Fenilbutazona",
+            "Tiramina (Alimentos, Etc.)"
+        ],
+        "total_balance": 18,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "8=2>",
+        "patient_name": "Carolina Alves",
+        "prescription": [
+            "Carbamazepina",
+            "Quinidina",
+            "Piridoxina",
+            "Metotrexato"
+        ],
+        "total_balance": 19,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":9;=",
+        "patient_name": "Maria Pereira",
+        "prescription": [
+            "Clonidina",
+            "Álcool (bebida)",
+            "Antibióticos (Largo Espectro)",
+            "Furosemida"
+        ],
+        "total_balance": 17,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";:3A",
+        "patient_name": "Martim Silva",
+        "prescription": [
+            "Cloranfenicol",
+            "Bloqueantes Neuromusculares",
+            "Ácido Acetilsalicílico",
+            "Isoniazida",
+            "Guanetidina"
+        ],
+        "total_balance": 23,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "8<5;",
+        "patient_name": "Martim Pinto",
+        "prescription": [
+            "Contraceptivos Orais",
+            "Isoniazida",
+            "Meprobamato"
+        ],
+        "total_balance": 7,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "6=8@",
+        "patient_name": "Martim Gomes",
+        "prescription": [
+            "Clofibrato",
+            "Anticolinérgicos",
+            "Guanetidina"
+        ],
+        "total_balance": 11,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "4:5?",
+        "patient_name": "Francisco Costa",
+        "prescription": [
+            "Procainamida",
+            "Rifampicina",
+            "Barbitúricos",
+            "Analgésicos Narcóticos"
+        ],
+        "total_balance": 27,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "4<69",
+        "patient_name": "Lourenço Alves",
+        "prescription": [
+            "Fenfluramina",
+            "Tiazidas",
+            "Bloqueadores adrenérgicos beta"
+        ],
+        "total_balance": 4,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "876<",
+        "patient_name": "Mariana Pereira",
+        "prescription": [
+            "Anti-histamínicos",
+            "Fenotiazinas (Clorpromazina)",
+            "Ácido Mefenâmico",
+            "Corticosteróides",
+            "Hidrato de Cloral"
+        ],
+        "total_balance": 28,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "<=2A",
+        "patient_name": "Mariana Ferreira",
+        "prescription": [
+            "Anticolinérgicos",
+            "Ácido Acetilsalicílico",
+            "Antiácidos",
+            "Sulfonamidas"
+        ],
+        "total_balance": 22,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "8;:B",
+        "patient_name": "Alice Marques",
+        "prescription": [
+            "Tiroxina",
+            "Metildopa",
+            "Ácido Ectacrínico"
+        ],
+        "total_balance": 14,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "679B",
+        "patient_name": "Gabriel Pereira",
+        "prescription": [
+            "Antiácidos",
+            "Fenfluramina",
+            "Fenilbutazona",
+            "Meprobamato",
+            "Simpaticomiméticos (A. Indirecta)"
+        ],
+        "total_balance": 36,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "665A",
+        "patient_name": "Gabriel Lopes",
+        "prescription": [
+            "Quinidina",
+            "Naproxeno",
+            "Metildopa"
+        ],
+        "total_balance": 14,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";>7?",
+        "patient_name": "Gabriel Oliveira",
+        "prescription": [
+            "Fenfluramina",
+            "Piridoxina",
+            "iMAOs",
+            "Antiácidos",
+            "Antibióticos (Largo Espectro)"
+        ],
+        "total_balance": 30,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":::>",
+        "patient_name": "Tomás Pereira",
+        "prescription": [
+            "Bloqueadores adrenérgicos beta",
+            "Metildopa",
+            "Digoxina"
+        ],
+        "total_balance": 3,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "893B",
+        "patient_name": "Benedita Jesus",
+        "prescription": [
+            "iMAOs",
+            "Ácido Mefenâmico",
+            "Carbamazepina",
+            "Colestiramina"
+        ],
+        "total_balance": 26,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";>7A",
+        "patient_name": "Santiago Jesus",
+        "prescription": [
+            "Digoxina",
+            "Simpaticomiméticos (A. Indirecta)",
+            "Piridoxina",
+            "Furosemida"
+        ],
+        "total_balance": 14,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":979",
+        "patient_name": "Santiago Gomes",
+        "prescription": [
+            "Simpaticomiméticos (A. Indirecta)",
+            "Corticosteróides",
+            "Bloqueantes Neuromusculares",
+            "iMAOs",
+            "Ácido Acetilsalicílico"
+        ],
+        "total_balance": 25,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "9:4:",
+        "patient_name": "Martim Jesus",
+        "prescription": [
+            "Antibióticos (Largo Espectro)",
+            "Tiazidas",
+            "Fenotiazinas (Clorpromazina)",
+            "Metotrexato",
+            "iMAOs"
+        ],
+        "total_balance": 29,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "<<:;",
+        "patient_name": "Rodrigo Pereira",
+        "prescription": [
+            "Clonidina",
+            "Fenitoína",
+            "Metotrexato",
+            "Tiazidas",
+            "Metronidazol"
+        ],
+        "total_balance": 31,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":99=",
+        "patient_name": "Beatriz Sousa",
+        "prescription": [
+            "Digoxina",
+            "Tetraciclinas",
+            "Anti-histamínicos",
+            "Tiazidas"
+        ],
+        "total_balance": 26,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "9=;:",
+        "patient_name": "Beatriz Ribeiro",
+        "prescription": [
+            "Anfetaminas",
+            "Antiácidos",
+            "Antibióticos (Largo Espectro)"
+        ],
+        "total_balance": 12,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "7>4?",
+        "patient_name": "Santiago Martins",
+        "prescription": [
+            "Fenotiazinas (Clorpromazina)",
+            "Anfetaminas",
+            "Cefaloridina (Ceporan)",
+            "Fenitoína",
+            "Colestiramina"
+        ],
+        "total_balance": 36,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "676=",
+        "patient_name": "Santiago Gomes",
+        "prescription": [
+            "Colestiramina",
+            "Hidrato de Cloral",
+            "Cefaloridina (Ceporan)",
+            "Barbitúricos"
+        ],
+        "total_balance": 14,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "595?",
+        "patient_name": "Francisco Silva",
+        "prescription": [
+            "Meprobamato",
+            "Isoniazida",
+            "Clofibrato"
+        ],
+        "total_balance": 3,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":<8@",
+        "patient_name": "Rodrigo Martins",
+        "prescription": [
+            "Álcool (bebida)",
+            "Cloranfenicol",
+            "Griseofulvina",
+            "Metronidazol"
+        ],
+        "total_balance": 16,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "456<",
+        "patient_name": "Santiago Carvalho",
+        "prescription": [
+            "Simpaticomiméticos (A. Directa)",
+            "Sulfimpirazona",
+            "Álcool (bebida)",
+            "Insulinas",
+            "Ácido Mefenâmico"
+        ],
+        "total_balance": 26,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":99>",
+        "patient_name": "Alice Carvalho",
+        "prescription": [
+            "Procainamida",
+            "Anticolinérgicos",
+            "Simpaticomiméticos (A. Directa)",
+            "iMAOs"
+        ],
+        "total_balance": 16,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "4;;B",
+        "patient_name": "Santiago Almeida",
+        "prescription": [
+            "Dicloralfenazona",
+            "Colestiramina",
+            "Simpaticomiméticos (A. Indirecta)"
+        ],
+        "total_balance": 14,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "5>2@",
+        "patient_name": "Ana Carvalho",
+        "prescription": [
+            "Antidepressivos Tricíclicos",
+            "Clonidina",
+            "Anfetaminas",
+            "Esteróides Anabólicos"
+        ],
+        "total_balance": 10,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "569@",
+        "patient_name": "Leonor Silva",
+        "prescription": [
+            "Tiroxina",
+            "Digoxina",
+            "Cefaloridina (Ceporan)",
+            "Rifampicina"
+        ],
+        "total_balance": 13,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "6<39",
+        "patient_name": "Afonso Ribeiro",
+        "prescription": [
+            "Levodopa",
+            "Procainamida",
+            "Piridoxina"
+        ],
+        "total_balance": 8,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "8<7@",
+        "patient_name": "Maria Sousa",
+        "prescription": [
+            "Guanetidina",
+            "Fenitoína",
+            "Tiramina (Alimentos, Etc.)"
+        ],
+        "total_balance": 4,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "593:",
+        "patient_name": "Sofia Costa",
+        "prescription": [
+            "Sulfonilinas (Clorpropamida)",
+            "Tiroxina",
+            "Tiramina (Alimentos, Etc.)",
+            "Anticolinérgicos",
+            "Insulinas"
+        ],
+        "total_balance": 36,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "762B",
+        "patient_name": "Alice Jesus",
+        "prescription": [
+            "Dicloralfenazona",
+            "Corticosteróides",
+            "Rifampicina",
+            "Anticolinérgicos",
+            "Ácido Acetilsalicílico"
+        ],
+        "total_balance": 28,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "897<",
+        "patient_name": "Leonor Pereira",
+        "prescription": [
+            "iMAOs",
+            "Álcool (bebida)",
+            "Fenitoína",
+            "Antidepressivos Tricíclicos",
+            "Quinidina"
+        ],
+        "total_balance": 20,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "<=7@",
+        "patient_name": "Sofia Jesus",
+        "prescription": [
+            "Antiácidos",
+            "Simpaticomiméticos (A. Directa)",
+            "Cloranfenicol"
+        ],
+        "total_balance": 11,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "5:79",
+        "patient_name": "Maria Pereira",
+        "prescription": [
+            "Metildopa",
+            "Contraceptivos Orais",
+            "Ácido Mefenâmico"
+        ],
+        "total_balance": 12,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "493<",
+        "patient_name": "Francisco Marques",
+        "prescription": [
+            "Tiroxina",
+            "Cefaloridina (Ceporan)",
+            "Analgésicos Narcóticos",
+            "Tiazidas"
+        ],
+        "total_balance": 24,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "<78B",
+        "patient_name": "Santiago Marques",
+        "prescription": [
+            "iMAOs",
+            "Álcool (bebida)",
+            "Fenitoína"
+        ],
+        "total_balance": 4,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":7::",
+        "patient_name": "Ana Martins",
+        "prescription": [
+            "Metotrexato",
+            "Isoniazida",
+            "Hidrato de Cloral"
+        ],
+        "total_balance": 8,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "876?",
+        "patient_name": "Tomás Costa",
+        "prescription": [
+            "Isoniazida",
+            "Ácido Acetilsalicílico",
+            "Antiácidos",
+            "Clofibrato",
+            "Barbitúricos"
+        ],
+        "total_balance": 27,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ":8;A",
+        "patient_name": "Martim Alves",
+        "prescription": [
+            "Cloranfenicol",
+            "Tiazidas",
+            "Fenfluramina",
+            "Analgésicos Narcóticos",
+            "Insulinas"
+        ],
+        "total_balance": 36,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "<95:",
+        "patient_name": "Benedita Pinto",
+        "prescription": [
+            "Rifampicina",
+            "Simpaticomiméticos (A. Directa)",
+            "Fenfluramina",
+            "Bloqueantes Neuromusculares"
+        ],
+        "total_balance": 20,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "8=29",
+        "patient_name": "Ana Almeida",
+        "prescription": [
+            "Digoxina",
+            "Isoniazida",
+            "Clonidina",
+            "Fenilbutazona",
+            "Anticoagulantes Orais"
+        ],
+        "total_balance": 35,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "575=",
+        "patient_name": "Afonso Sousa",
+        "prescription": [
+            "Esteróides Anabólicos",
+            "Benzodiazepinas (Diazepam)",
+            "Meprobamato",
+            "Cefaloridina (Ceporan)",
+            "Glutetimida"
+        ],
+        "total_balance": 27,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "95;9",
+        "patient_name": "Sofia Pinto",
+        "prescription": [
+            "Guanetidina",
+            "Anti-histamínicos",
+            "Biguanidas (Fenformina)",
+            "Procainamida"
+        ],
+        "total_balance": 23,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";8;:",
+        "patient_name": "Afonso Costa",
+        "prescription": [
+            "Ácido Ectacrínico",
+            "Glutetimida",
+            "Haloperidol",
+            "Analgésicos Narcóticos"
+        ],
+        "total_balance": 13,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "654:",
+        "patient_name": "Duarte Oliveira",
+        "prescription": [
+            "Antidepressivos Tricíclicos",
+            "Cefaloridina (Ceporan)",
+            "Anticolinérgicos",
+            "Bloqueantes Neuromusculares",
+            "Benzodiazepinas (Diazepam)"
+        ],
+        "total_balance": 25,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "795?",
+        "patient_name": "Santiago Lopes",
+        "prescription": [
+            "Analgésicos Narcóticos",
+            "Biguanidas (Fenformina)",
+            "Metotrexato"
+        ],
+        "total_balance": 8,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": "7<69",
+        "patient_name": "Maria Ferreira",
+        "prescription": [
+            "Corticosteróides",
+            "Digoxina",
+            "Levodopa",
+            "Biguanidas (Fenformina)",
+            "Fenotiazinas (Clorpromazina)"
+        ],
+        "total_balance": 33,
+        "result": "With Interactions"
+    },
+    {
+        "patient_id": ";=79",
+        "patient_name": "Beatriz Jesus",
+        "prescription": [
+            "Clonidina",
+            "Cloranfenicol",
+            "Haloperidol",
+            "Fenotiazinas (Clorpromazina)",
+            "Levodopa"
+        ],
+        "total_balance": 28,
+        "result": "With Interactions"
+    }
+]

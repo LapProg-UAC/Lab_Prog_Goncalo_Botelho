@@ -1,0 +1,9 @@
+hashing_parameters:
+  secret_key: [10, 20, 30, 40, 50]
+  hash_length: 5
+
+input_files:
+  names_list: "nomes.txt"
+
+output_files:
+  hash_report: "resultados.txt"

@@ -1,0 +1,9 @@
+signal_parameters:
+  start: 0
+  end: 10
+  num_points: 400
+
+output_files:
+  correlation_heatmap: "correlation_heatmap.jpg"
+  plotly_plot: "plotly_signals.html"
+  bokeh_plot: "bokeh_signals.html"

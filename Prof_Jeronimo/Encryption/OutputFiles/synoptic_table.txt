@@ -1,0 +1,62 @@
+	Ácido Acetilsalicílico	Ácido Ectacrínico	Ácido Mefenâmico	Álcool (bebida)	Analgésicos Narcóticos	Anfetaminas	Antiácidos	Antibióticos (Largo Espectro)	Anticoagulantes Orais	Anticolinérgicos	Antidepressivos Tricíclicos	Anti-histamínicos	Barbitúricos	Benzodiazepinas (Diazepam)	Biguanidas (Fenformina)	Bloqueadores adrenérgicos beta	Bloqueantes Neuromusculares	Carbamazepina	Cefaloridina (Ceporan)	Clofibrato	Clonidina	Cloranfenicol	Colestiramina	Contraceptivos Orais	Corticosteróides	Dicloralfenazona	Digoxina	Esteróides Anabólicos	Fenfluramina	Fenilbutazona	Fenitoína	Fenotiazinas (Clorpromazina)	Furosemida	Glutetimida	Griseofulvina	Guanetidina	Haloperidol	Hidrato de Cloral	Indometacina	iMAOs	Insulinas	Isoniazida	Levodopa	Meprobamato	Metildopa	Metotrexato	Metronidazol	Naproxeno	Piridoxina	Procainamida	Quinidina	Rifampicina	Simpaticomiméticos (A. Directa)	Simpaticomiméticos (A. Indirecta)	Sulfimpirazona	Sulfonamidas	Sulfonilinas (Clorpropamida)	Tetraciclinas	Tiazidas	Tiramina (Alimentos, Etc.)	Tiroxina
+Ácido Acetilsalicílico	0	3	6	2	5	5	4	3	3	0	6	0	2	1	0	3	6	0	3	4	3	4	1	4	3	0	5	3	1	1	3	6	5	2	1	1	1	1	5	0	6	0	2	2	5	3	5	5	2	6	4	1	0	0	4	1	4	0	0	1	1
+Ácido Ectacrínico	0	0	6	5	4	2	4	3	6	5	0	5	2	3	3	1	4	2	3	4	5	4	0	2	0	0	6	0	6	4	0	6	0	3	6	5	1	5	5	5	6	1	1	4	0	5	2	3	1	3	6	3	2	3	5	2	3	6	4	0	1
+Ácido Mefenâmico	0	2	0	2	1	5	2	5	5	4	0	6	4	4	1	6	1	4	6	5	2	0	6	4	2	1	3	2	6	0	2	0	5	5	4	6	3	4	1	5	6	5	0	4	0	1	1	4	2	5	1	4	2	6	2	4	4	2	4	4	0
+Álcool (bebida)	1	5	0	0	1	0	6	2	1	6	3	3	3	6	5	2	0	4	6	1	6	3	5	0	6	5	2	3	4	5	1	3	1	2	4	5	4	5	1	5	4	3	4	4	6	5	2	2	5	1	5	4	1	6	6	0	6	6	1	1	2
+Analgésicos Narcóticos	0	3	3	1	0	6	6	5	5	2	4	2	5	3	2	2	0	5	4	0	5	1	2	6	4	5	4	1	2	5	4	4	0	4	3	2	2	2	3	3	3	4	6	3	1	4	1	3	6	0	2	5	0	5	2	6	0	3	6	4	1
+Anfetaminas	6	4	2	5	5	0	4	4	1	5	4	2	5	5	6	0	3	0	4	4	0	6	5	4	3	0	6	0	6	0	5	2	6	6	1	6	4	4	0	2	6	2	4	5	1	4	6	2	3	2	6	6	2	1	4	3	2	6	4	6	5
+Antiácidos	2	3	1	2	1	2	0	4	0	1	6	4	1	0	6	2	3	6	6	4	5	6	6	2	0	2	5	6	4	3	3	4	6	4	6	3	6	2	1	5	3	0	0	4	3	2	5	2	0	5	2	6	0	3	4	4	5	2	3	0	0
+Antibióticos (Largo Espectro)	3	3	6	1	3	5	0	0	3	0	5	6	5	2	5	2	4	3	4	2	3	5	3	0	4	0	4	0	3	2	4	2	0	2	0	1	4	6	5	4	0	3	1	4	0	5	3	4	5	4	4	4	5	2	6	3	4	1	1	3	4
+Anticoagulantes Orais	2	5	6	5	5	5	4	2	0	1	1	4	0	4	6	2	4	1	4	6	5	4	5	3	1	3	2	0	1	1	3	0	6	3	6	3	4	2	0	1	6	3	5	4	1	1	4	3	1	0	0	1	4	0	1	1	4	4	4	4	5
+Anticolinérgicos	5	6	3	6	4	6	4	0	3	0	2	5	2	3	5	0	6	0	0	2	2	0	0	6	4	3	5	4	0	1	5	0	0	1	5	2	3	4	3	2	4	2	1	2	5	2	5	5	3	0	5	6	0	1	6	4	5	2	4	1	5
+Antidepressivos Tricíclicos	3	4	5	1	0	0	6	0	2	6	0	5	5	0	2	1	2	1	4	2	4	4	5	3	1	1	0	3	4	2	4	2	5	5	6	2	6	2	1	3	0	0	4	5	3	1	1	6	0	1	0	5	0	4	6	3	2	4	4	5	3
+Anti-histamínicos	4	1	0	0	2	6	3	2	1	5	5	0	2	5	5	0	0	1	6	2	2	6	4	1	3	1	0	2	4	6	5	2	1	0	2	0	5	2	2	6	1	6	6	2	3	2	1	6	3	6	3	2	0	5	4	3	1	3	2	5	1
+Barbitúricos	1	1	4	5	6	1	0	4	6	6	1	1	0	2	1	0	6	3	6	0	5	3	2	6	6	1	3	5	2	3	3	1	3	4	6	1	6	0	6	1	2	0	6	2	1	0	3	2	0	6	0	6	6	2	2	6	0	0	2	5	6
+Benzodiazepinas (Diazepam)	2	1	5	4	0	2	1	5	2	4	3	0	5	0	4	1	0	5	5	3	1	4	1	0	0	4	6	6	2	6	3	1	0	3	5	1	3	5	5	1	5	6	1	2	2	6	4	6	6	0	4	6	5	3	6	6	4	1	2	3	5
+Biguanidas (Fenformina)	6	2	4	5	6	3	6	6	3	1	2	3	1	0	0	3	4	6	4	0	4	4	2	5	1	2	2	6	1	0	5	3	5	3	1	6	4	2	1	4	2	3	4	5	2	2	2	6	0	6	4	4	5	1	0	5	6	2	5	5	5
+Bloqueadores adrenérgicos beta	5	6	5	5	4	0	5	0	6	3	0	0	3	2	5	0	5	6	2	1	2	4	1	0	4	2	1	1	5	6	5	2	2	3	0	2	6	6	4	5	6	2	5	5	0	0	4	4	5	4	0	6	1	3	0	0	3	2	5	5	4
+Bloqueantes Neuromusculares	2	6	3	2	3	5	2	6	1	4	5	0	4	0	5	5	0	6	4	2	4	4	6	1	3	1	2	6	2	1	2	1	0	4	0	3	0	0	2	1	1	1	4	4	6	6	4	1	6	1	0	4	0	5	6	2	4	2	6	3	2
+Carbamazepina	1	4	0	6	6	1	4	2	2	4	4	5	2	3	2	2	4	0	5	2	0	2	4	3	2	2	3	2	0	3	0	1	4	1	5	3	5	3	4	6	3	2	0	5	1	1	5	5	4	3	3	0	6	2	6	0	1	3	0	5	4
+Cefaloridina (Ceporan)	2	4	6	4	3	3	5	4	5	0	1	0	3	1	2	6	3	5	0	2	1	5	1	5	0	5	2	0	2	0	5	4	2	2	4	4	6	4	4	2	5	4	1	3	4	1	0	5	3	6	6	1	4	1	6	4	3	2	4	5	4
+Clofibrato	1	5	6	2	4	1	4	3	0	6	4	2	5	1	2	3	5	1	4	0	1	5	5	1	4	1	3	4	4	3	0	1	5	1	4	3	4	5	4	4	3	5	3	4	5	5	5	0	1	5	0	3	3	4	4	2	4	4	6	4	0
+Clonidina	3	3	2	6	2	0	5	3	4	3	1	5	1	6	5	5	0	1	0	2	0	3	1	1	0	0	3	3	3	1	5	0	5	6	3	6	5	5	6	4	3	5	6	5	1	3	4	4	4	2	1	5	4	4	0	5	4	3	6	4	5
+Cloranfenicol	1	0	6	2	4	3	5	1	5	1	0	3	3	0	4	0	3	0	1	6	3	0	3	5	3	4	3	4	6	4	6	4	5	5	1	5	3	1	0	3	4	5	0	3	5	4	5	2	0	5	3	0	5	0	0	4	6	0	1	5	1
+Colestiramina	1	6	1	1	2	1	1	5	3	4	4	6	5	1	2	5	0	6	2	3	6	5	0	0	1	0	2	3	0	3	0	4	5	2	4	2	3	4	2	1	0	4	4	4	3	6	2	1	0	3	6	0	4	5	3	0	0	4	1	1	6
+Contraceptivos Orais	2	4	5	3	5	4	6	4	5	5	1	1	3	5	1	3	0	4	2	4	3	2	3	0	4	6	4	2	3	6	2	6	4	5	3	3	1	1	5	3	4	1	6	5	3	5	6	2	2	6	0	3	0	0	5	1	1	5	5	3	3
+Corticosteróides	4	4	0	3	6	3	4	4	5	5	0	3	4	5	1	1	1	0	5	3	4	4	1	2	0	5	5	0	6	6	6	1	0	0	2	5	6	3	6	1	0	1	1	0	2	3	3	3	2	5	6	0	5	1	2	4	6	6	3	6	2
+Dicloralfenazona	4	5	4	6	2	5	2	5	0	0	4	1	4	3	1	3	1	1	2	6	0	2	5	4	1	0	0	2	0	2	3	6	4	0	6	0	1	3	0	2	6	1	5	5	0	1	6	0	3	5	6	6	2	4	0	1	5	0	2	3	6
+Digoxina	5	6	6	1	4	3	1	4	6	6	2	6	2	4	6	5	3	5	4	0	2	4	5	3	5	3	0	2	4	0	0	4	6	3	1	4	3	2	2	6	2	2	1	3	5	4	6	5	0	5	0	1	2	0	0	2	6	6	4	4	2
+Esteróides Anabólicos	3	0	1	2	0	6	4	1	6	2	4	2	5	3	4	5	4	6	6	5	4	2	0	4	3	2	3	0	2	1	2	1	6	1	2	1	0	3	6	5	0	6	0	2	4	3	6	0	5	0	0	6	0	4	5	6	3	3	0	2	1
+Fenfluramina	1	5	6	5	4	4	1	3	0	0	1	6	2	2	0	2	6	1	2	0	3	2	6	6	2	4	3	4	0	3	4	5	6	1	4	0	4	5	6	4	0	1	5	4	6	1	1	3	3	3	1	3	2	1	3	4	6	6	0	6	6
+Fenilbutazona	0	2	3	3	6	4	6	3	6	5	5	6	6	2	2	2	6	1	4	6	3	4	0	4	5	3	6	2	1	0	1	3	4	3	5	0	5	4	0	6	3	5	1	6	2	3	2	6	2	4	4	1	4	5	2	2	5	5	3	4	6
+Fenitoína	4	2	5	6	0	0	0	2	5	2	0	0	4	5	1	6	4	6	3	5	5	3	1	5	3	4	0	3	3	0	0	2	0	0	4	4	3	4	0	3	5	3	4	1	4	3	0	4	0	5	1	0	4	2	6	4	3	1	5	1	5
+Fenotiazinas (Clorpromazina)	5	5	5	4	4	4	4	4	1	3	0	2	3	2	3	5	0	2	1	4	6	5	5	6	2	1	5	0	3	3	5	0	6	0	6	1	1	5	5	0	1	0	2	0	6	6	6	6	6	2	2	0	2	2	2	6	3	5	5	1	1
+Furosemida	2	3	3	1	1	3	3	3	2	0	4	6	6	2	4	4	6	2	5	5	0	3	4	2	5	0	0	2	1	2	6	5	0	2	4	6	3	1	0	4	4	2	3	5	1	4	5	0	3	2	1	2	0	4	1	1	3	1	4	4	2
+Glutetimida	3	4	4	6	5	2	4	0	6	1	3	3	1	6	1	3	5	0	1	0	2	0	2	2	0	4	2	6	5	2	1	3	6	0	3	3	0	4	0	4	3	4	5	4	5	2	0	3	6	2	0	4	4	3	5	2	3	0	6	1	5
+Griseofulvina	6	2	2	4	6	5	1	2	1	0	6	6	0	1	3	3	0	0	4	4	5	0	0	5	0	2	6	2	4	2	4	4	4	3	0	2	3	1	6	1	4	0	6	3	1	5	1	6	4	5	5	4	1	0	1	5	0	0	2	1	5
+Guanetidina	5	0	0	4	4	6	4	1	5	6	5	0	6	4	1	6	2	1	2	6	4	1	1	4	1	6	1	3	6	4	2	0	0	6	2	0	2	6	3	3	6	5	2	4	6	6	1	1	1	5	1	0	3	5	1	4	6	0	2	1	0
+Haloperidol	3	3	4	3	0	5	0	1	3	4	5	0	3	0	4	4	4	6	6	1	4	6	2	5	0	4	0	5	0	6	1	4	0	3	0	6	0	3	1	3	2	6	1	4	5	3	5	5	6	2	6	2	0	6	0	1	6	0	3	1	1
+Hidrato de Cloral	2	6	1	4	0	0	6	6	1	1	4	1	0	6	3	6	3	5	0	2	5	3	4	4	4	2	3	2	6	2	1	6	3	1	3	6	3	0	2	3	6	6	6	4	1	6	1	0	2	1	3	0	4	1	1	2	6	0	2	4	0
+Indometacina	5	1	6	4	2	0	0	6	3	1	1	1	6	5	3	0	3	1	1	4	5	5	0	6	3	2	3	3	2	2	1	3	0	5	2	6	4	6	0	3	3	0	2	3	6	5	1	6	0	6	2	5	0	6	6	2	4	1	4	4	5
+iMAOs	0	4	4	1	3	3	5	5	0	0	3	5	6	4	0	1	6	6	3	5	3	1	2	2	0	0	2	1	6	6	2	3	3	4	2	3	4	6	3	0	0	3	2	0	1	3	5	5	1	1	4	3	1	6	5	5	0	3	3	1	3
+Insulinas	3	2	6	4	4	2	4	5	2	2	0	6	4	1	0	0	4	6	1	1	4	6	2	4	4	3	5	6	6	0	0	2	4	1	5	3	3	2	1	2	0	6	2	6	5	5	6	3	3	3	2	6	4	3	0	3	3	5	4	5	1
+Isoniazida	1	6	5	3	1	4	2	3	6	0	1	2	3	5	4	6	0	4	1	1	2	5	1	5	4	0	4	3	1	6	4	1	1	5	2	2	0	1	3	3	5	0	5	1	1	5	2	2	0	4	1	2	3	0	0	1	5	3	4	5	3
+Levodopa	1	2	4	3	6	6	1	6	2	4	3	0	0	5	6	4	5	3	0	6	2	2	6	6	4	1	5	6	3	0	4	5	1	3	0	6	1	6	6	5	1	0	0	4	6	5	0	6	3	1	2	5	3	6	0	6	6	5	0	0	3
+Meprobamato	0	5	1	1	0	4	4	1	1	3	2	0	0	2	3	0	6	6	2	1	1	3	2	3	6	4	2	6	2	1	5	3	5	1	5	0	0	5	3	6	3	1	1	0	4	3	6	5	0	1	3	2	1	3	1	4	3	2	3	6	2
+Metildopa	0	5	4	0	2	1	3	6	3	0	2	5	4	3	3	2	5	4	0	0	6	5	0	3	1	2	2	6	3	1	3	0	3	2	0	1	1	3	2	4	3	4	3	4	0	4	1	0	6	0	4	4	4	4	6	3	2	2	3	5	1
+Metotrexato	6	5	0	0	4	6	6	2	5	6	6	6	2	4	5	1	4	4	4	1	4	1	1	6	1	1	1	4	3	4	3	6	3	2	0	6	1	6	0	4	2	1	2	5	0	0	0	1	6	6	0	6	3	2	4	2	6	2	2	3	0
+Metronidazol	6	2	3	4	4	1	6	5	6	0	6	1	5	1	6	1	4	0	3	2	4	4	6	4	2	4	2	2	0	5	1	5	6	1	1	6	2	6	5	6	4	5	0	3	5	0	0	1	5	0	3	5	6	5	5	3	6	5	4	5	5
+Naproxeno	2	1	0	3	1	6	3	0	4	0	3	4	5	2	2	6	4	4	2	5	4	4	6	0	6	5	5	4	4	3	4	4	4	1	6	5	3	2	1	2	2	0	5	4	5	0	5	0	3	4	6	2	5	5	2	0	3	5	3	0	1
+Piridoxina	2	5	1	2	0	2	3	2	0	4	3	5	1	3	0	3	5	0	5	5	1	1	6	1	1	3	4	0	3	2	4	6	3	6	2	1	5	6	1	0	6	5	2	6	1	5	2	4	0	6	1	5	5	5	5	4	3	1	4	4	5
+Procainamida	3	5	3	5	6	6	6	1	3	6	6	2	3	1	5	5	5	2	3	4	4	4	2	6	6	0	0	2	6	0	0	1	1	5	5	2	0	3	2	6	2	0	5	0	6	0	5	5	4	0	1	6	2	3	2	6	3	4	0	1	3
+Quinidina	3	0	5	1	2	3	0	2	3	5	4	4	0	4	6	3	4	0	1	6	2	3	3	2	1	5	6	2	5	4	3	3	0	0	6	2	6	1	5	3	3	6	4	2	3	3	3	6	3	2	0	3	4	2	3	3	4	5	1	5	0
+Rifampicina	3	4	2	5	3	1	2	6	3	0	0	1	3	1	0	3	5	2	4	0	6	0	5	4	4	5	2	2	4	1	0	6	2	5	0	3	3	5	6	1	2	0	2	0	1	2	1	0	5	3	4	0	1	5	6	0	6	4	4	6	1
+Simpaticomiméticos (A. Directa)	0	6	3	3	4	2	4	6	1	4	6	6	5	0	4	1	3	2	6	3	2	5	4	1	5	3	1	6	1	3	0	0	5	5	3	0	4	4	0	0	3	1	5	2	4	0	6	2	0	3	5	0	0	2	4	2	0	2	6	6	2
+Simpaticomiméticos (A. Indirecta)	5	3	3	3	2	1	0	5	4	1	4	5	1	0	2	0	0	4	4	3	1	3	4	4	5	1	5	1	2	5	4	6	1	4	4	4	3	3	5	6	4	0	0	5	1	2	5	5	4	1	1	1	3	0	3	6	2	3	6	5	3
+Sulfimpirazona	5	1	0	0	4	5	6	0	3	1	2	3	0	6	5	4	2	1	0	2	3	1	6	6	5	5	6	1	1	1	4	3	1	1	6	5	3	0	6	0	3	3	3	2	6	0	4	2	4	6	0	1	4	4	0	4	2	3	4	5	2
+Sulfonamidas	6	2	4	6	6	3	5	1	1	2	2	1	3	0	2	1	6	2	4	2	4	1	3	2	6	2	2	3	4	4	0	3	4	2	6	4	1	2	1	1	4	1	2	1	0	6	0	2	5	0	3	4	4	1	2	0	2	5	5	1	0
+Sulfonilinas (Clorpropamida)	5	6	1	6	5	1	3	4	6	3	1	0	4	3	4	2	3	0	3	5	0	6	1	1	2	2	3	3	6	6	1	4	1	3	4	4	3	6	2	0	4	4	3	5	0	6	2	0	6	5	2	2	0	3	3	2	0	4	1	6	2
+Tetraciclinas	5	0	6	2	3	5	2	1	1	6	1	4	6	5	6	4	3	4	6	3	2	5	2	4	1	5	3	3	6	0	4	4	1	0	4	2	0	1	5	6	2	2	6	3	1	1	6	0	5	0	5	0	6	5	6	3	3	0	4	4	3
+Tiazidas	6	4	0	0	4	3	4	0	4	6	2	6	1	6	5	2	6	4	2	4	5	3	2	4	2	1	1	6	5	4	6	3	2	1	4	6	4	2	4	0	5	3	5	1	5	4	3	2	6	6	0	3	5	1	1	2	0	4	0	3	3
+Tiramina (Alimentos, Etc.)	2	2	5	3	0	5	1	5	6	3	6	2	3	3	3	4	3	2	6	6	1	5	2	6	2	5	0	4	2	2	4	4	1	5	2	4	0	6	3	3	2	1	4	2	5	0	3	0	3	0	2	5	3	2	3	0	1	6	2	0	5
+Tiroxina	2	5	3	6	2	4	0	2	1	2	1	0	1	3	5	4	0	0	3	4	6	0	1	0	3	6	2	2	6	1	4	5	5	1	2	2	1	1	2	3	6	0	3	4	4	2	0	2	6	4	0	2	0	1	2	3	2	0	6	4	0
