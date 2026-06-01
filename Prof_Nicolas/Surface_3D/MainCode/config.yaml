@@ -1,8 +1,0 @@
-grid_parameters:
-  start: -5
-  end: 5
-  num_points: 100
-
-output_files:
-  multi_surface: "3d_multi_surface_plot.jpg"
-  surface_contour: "3d_surface_with_contours.jpg"
